@@ -1,4 +1,4 @@
 Galdr
 =====
 
-Galdr (in development)
+(Galdr in development)
